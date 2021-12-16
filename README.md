@@ -1,6 +1,8 @@
 # WLED ESP32 Controller
 
-![Alt text](./Images/IMG_7885.jpeg?raw=true "solder1")
+![Alt text](./Images/IMG_7885.jpeg?raw=true "overview")
+
+![Alt text](./Images/WLED_ESP32_Controller.png?raw=true "overview")
 
 ## Features
 - 5V/GND connector for input voltage
@@ -41,6 +43,8 @@
 - Microphone input - pin 36
 - Button input 1 - pin 26
 - Button input 2 - pin 27
+
+![Alt text](./Images/Pinout.png?raw=true "overview")
 
 ## Case
 - https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/Case/WLED_ESP32_Controller_Case.stl
