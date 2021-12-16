@@ -1,6 +1,6 @@
 # WLED ESP32 Controller
 
-![Alt text](./Images/IMG_7885.jpeg)
+<img src="./Images/IMG_7885.jpeg" width="100%" height="100%">
 
 ## Features
 - 5V/GND connector for input voltage
@@ -26,7 +26,7 @@
 - 1 x 4-pin header male
 - 1 x 7-pin header male
 
-![Alt text](./Images/WLED_ESP32_Controller.png)
+<img src="./Images/WLED_ESP32_Controller.png" width="50%" height="50%">
 
 ## Wiring diagram
 - https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/WLED_ESP32_Controller.pdf
@@ -44,7 +44,7 @@
 - Button input 1 - pin 26
 - Button input 2 - pin 27
 
-![Alt text](./Images/Pinout.png)
+<img src="./Images/Pinout.png" width="75%" height="75%">
 
 ## Case
 - https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/Case/WLED_ESP32_Controller_Case.stl
