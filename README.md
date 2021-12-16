@@ -27,7 +27,7 @@
 - 1 x 7-pin header male
 
 ## Wiring diagram
-- https://github.com/Hasenpups/WLED_ESP32_Controller/blob/master/WLED_ESP32_Controller.pdf
+- https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/WLED_ESP32_Controller.pdf
 
 ## WLED configuration
 - OUT1 - pin 16
@@ -39,4 +39,4 @@
 - Button input 2 - pin 27
 
 ## Case
-- https://github.com/Hasenpups/WLED_ESP32_Controller/blob/master/Case/WLED_ESP32_Controller_Case.stl
+- https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/Case/WLED_ESP32_Controller_Case.stl
