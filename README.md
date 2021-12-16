@@ -2,8 +2,6 @@
 
 ![Alt text](./Images/IMG_7885.jpeg?raw=true "overview")
 
-![Alt text](./Images/WLED_ESP32_Controller.png?raw=true "overview")
-
 ## Features
 - 5V/GND connector for input voltage
 - 4 output lines for LED data or relais
@@ -27,6 +25,8 @@
 - 2 x 3-pin screw terminal (https://www.amazon.de/gp/product/B07PPRYT4X)
 - 1 x 4-pin header male
 - 1 x 7-pin header male
+
+![Alt text](./Images/WLED_ESP32_Controller.png?raw=true "Bestückung")
 
 ## Wiring diagram
 - https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/WLED_ESP32_Controller.pdf
