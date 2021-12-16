@@ -30,8 +30,8 @@
 - https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/WLED_ESP32_Controller.pdf
 
 ## Software
-WLED - https://github.com/Aircoookie/WLED/releases
-Sound Reactive WLED - https://github.com/atuline/WLED/releases
+- WLED - https://github.com/Aircoookie/WLED/releases
+- Sound Reactive WLED - https://github.com/atuline/WLED/releases
 
 ## WLED configuration
 - OUT1 - pin 16
