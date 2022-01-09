@@ -59,4 +59,4 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 <img src="./Images/Pinout.png" width="75%" height="75%">
 
 ## Case
-- https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/Case/WLED_ESP32_Controller_Case.stl
+- https://github.com/Hasenpups/WLED_ESP32_Controller/blob/master/Case/WLED_ESP32_Controller_Case.stl
