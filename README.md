@@ -41,7 +41,7 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 <img src="./Images/WLED_ESP32_Controller.png" width="50%" height="50%">
 
 ## Wiring diagram
-- https://github.com/Hasenpups/WLED_ESP32_Controller_Public/blob/master/WLED_ESP32_Controller.pdf
+- https://github.com/Hasenpups/WLED_ESP32_Controller/blob/main/WLED_ESP32_Controller.pdf
 
 ## Software
 - WLED: https://github.com/Aircoookie/WLED/releases
