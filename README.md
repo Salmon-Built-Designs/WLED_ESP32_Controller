@@ -33,7 +33,7 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
     - SW1, SW2: SW-SMD-3.7x6.1_2P
     - U1: AMS1117-3.3 SOT-223-3
     - U2: ESP-WROOM-32
-    - U3: SN74AHCT125DR
+    - U3: SN74AHCT125DR / SN74AHCT32DR
 - 2 x 3-pin screw terminal (https://www.amazon.de/gp/product/B07PPRYT4X)
 - 1 x 4-pin header male
 - 1 x 7-pin header male
